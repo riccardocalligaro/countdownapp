@@ -1,5 +1,15 @@
 # Countdown app
+
 A countdown app for Android developed in Kotlin ⌛
+
+| Function                     | State |
+| ---------------------------- | :---: |
+| Peristency with Android Room |  ✔️   |
+| Custom Recycler View         |  ✔️   |
+| Notifications                |  ✔️   |
+| Countdown customization      |  ✔️   |
+| Widget                       |  ❌   |
+| Settings page                |  ❌   |
 
 <div align="center">
  <hr>
